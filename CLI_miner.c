@@ -17,8 +17,6 @@ int main()
 
     sprintf(fee_str, "%d", fee);
 
-    SetCurrentDirectory("S:/Hemipop");
-
     SetEnvironmentVariable("POPM_BTC_PRIVKEY", address_str);
     SetEnvironmentVariable("POPM_STATIC_FEE", fee_str);
     SetEnvironmentVariable("POPM_BFG_URL", "wss://testnet.rpc.hemi.network/v1/ws/public");
