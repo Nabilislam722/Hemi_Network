@@ -1,5 +1,5 @@
 Step 1: Download this file 
 
-Step 2: Move this File to Hemi CLI miner Folder
+Step 2: Move the .exe File to Hemi pop miner Folder
 
 Step 3: Run :
